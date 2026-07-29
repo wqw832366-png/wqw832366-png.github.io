@@ -1,0 +1,19 @@
+{
+  "name": "黄金雷达｜交易信号提醒",
+  "short_name": "黄金雷达",
+  "description": "144/169均线隧道结合缠论结构的黄金行情分析与手机提醒工具。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#080a0d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
